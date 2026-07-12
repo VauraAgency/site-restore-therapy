@@ -1,0 +1,154 @@
+{
+  "formatted_address": "229 Jackson St Unit B6, Anoka, MN 55303, USA",
+  "formatted_phone_number": "(612) 422-0648",
+  "name": "RESTORE THERAPY",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "rating": 5,
+  "reviews": [
+    {
+      "author_name": "Luke Anselmo",
+      "author_url": "https://www.google.com/maps/contrib/115495707611706094451/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3uWYqAy3o8fvXHsbZZrmlASH4MvztbmV5IijANldxQsCCjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Stop your search for a fantastic massage therapist!  I had my first massage from Jenny, the owner, and wow!!! She has amazing strength and attention to detail! She did a shiatsu massage first with her feet which was better than anyone I previously had experienced. Then did more hands on work and assisted stretching which has me feeling incredible. My mom was a massage therapist and I am too, so I feel very experienced in the number of people I\u2019d had work on me, and I can say with confidence that she is probably tied at first with one other person, but I can\u2019t wait to try the hot stones, cupping, and gua sha!  She also offers 3, 4, and 5 hour massage!  Her joyful spirit and positive energy compliment her professional skills nicely and she can help with just about any problem. Thank you, thank you, thank you!  I will be returning, and cannot recommend her highly enough! \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+      "time": 1771997990,
+      "translated": false
+    },
+    {
+      "author_name": "Tom Potvin",
+      "author_url": "https://www.google.com/maps/contrib/109076737482336978458/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzue4A7Itgtgi_GJnUOIcnUsg8GHe9igOvmdj3gm1R-Ba7RQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I have had a lot of massages and have seen Jenny several times recently. Jenny is tied for the best Masseuse I've ever seen. Jenny listens to you and works extra on those areas and really seems to know what she is doing. Jenny is professional and her room is clean and comfortable. I will continue to see her even though my drive is a little longer than I like.",
+      "time": 1773662112,
+      "translated": false
+    },
+    {
+      "author_name": "Aiden",
+      "author_url": "https://www.google.com/maps/contrib/113758930447232475717/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXephxv_HnmRw1MhcYEweGA6Lw2fthYve_PBwy22v5UEFnt2EsU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Erin is fantastic, I went in stiff as a board and came out with a full range of motion. She's got a great pressure and checked in with me multiple times to make sure I was still doing okay. 10/10, definitely coming back as soon as I can.",
+      "time": 1772294016,
+      "translated": false
+    },
+    {
+      "author_name": "Tracy Ford",
+      "author_url": "https://www.google.com/maps/contrib/113377362545598954218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHUrJa9vLvk3m8cvXj8Hof84mpb19TpV7HCzQceAl9ZOoXEw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "These 2 ladies are the best massage therapist that I\u2019ve ever had the pleasure of meeting. Pain relief was real and long lasting and immediate!",
+      "time": 1773878791,
+      "translated": false
+    },
+    {
+      "author_name": "Murali Krishna",
+      "author_url": "https://www.google.com/maps/contrib/117828950684382863814/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImRCb5578MR857BBr-u4KUUBITLaPv7EzUBWwVS_viSdzouQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great Massage. Jenny is a great therapist, will definitely visit again.",
+      "time": 1776538322,
+      "translated": false
+    }
+  ],
+  "url": "https://maps.google.com/?cid=16085800689208297284",
+  "user_ratings_total": 11
+}
