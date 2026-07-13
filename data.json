@@ -3,7 +3,7 @@
   "formatted_phone_number": "(612) 422-0648",
   "name": "RESTORE THERAPY",
   "opening_hours": {
-    "open_now": true,
+    "open_now": false,
     "periods": [
       {
         "close": {
@@ -92,7 +92,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3mk8Nt27DOVkDRwtKT8YBNWmfxg4g36MUWOpDmvave1I9h957Y-jrAlJV7Vo5TsjhY38NgwXiNpJgv96eMbH-tWZVSS_tYUQm7UBb51uIinBEGHi3a0i0fngxJIp-e98eCNF-ZAWxwOW9YSOm0y-XOz9cCK7HHqz2YfkzBjc4zsnMxq3vunbSvhae7TuGIkXP2x3fBbeXmU8YYExxjeb-LcIT41_IZGn9eUvOvIqS7OrHotC3H9A4IauRocUK3pPqCitPDG8n_1UnLCNuLKPD-MjzMoQabLYYp4wbhwS5jsQMuMvWzDZhwPrMx_dmJux3QMXD_Lm0f-xhCR-U0ovbCGxTLGLS_QDnqULGV0QkE-egv3PIxVSM69toLITnRL43G5X1P2dzDbSntpC9A58pGb-iUMsCP2pokIEunWLm4VRc4BKusvB3vaFfJBwmPL",
+      "photo_reference": "AaVGc3mbOO73sMQMnDIKtMaEDVVzw5Ik_sQX2dhlCLgizfccbqlZclc2fdTuht6vaL7elo2r6XuVwXrMtwasFJTikk2uyHAiuPX_l2eZNdm3CXi0Vs9oN6q5ZCgQr2_0dWBUrItPMIz112IqAnC90AOm3ol5hG9hzIeVXrSuJrp7BkiCInIbggqCCTvfeQea4MGLcL8yh2bEgeQZfK-m3CCrGIzRW8G9NI4uRgDC0TcydfimDMz_ye1E0_QwTPN4yJVEbZREwDIhnykW7mCt_jtJnuORMrwSbDYZd8ilte1kxd9wVGavof42juijIUPVWu8iLC4Edhl-cFj4up1oe0E52VzYywq5zhnxYYyeb44B0WaKX31u99mjOinNFfg_CcjRaJ6GUoFvWH5tBd_BaHvN6_6eV44jZ2DfylmdByUoB7DsCFt-oMlrUkltY7heLAmO",
       "width": 1280
     },
     {
@@ -100,7 +100,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3nRV--y6friBHOWi6c9qticObcVG2X4mq6Jkas51_c4ihz1rj6Us5ut5bLWHP1y3X1YfnPh_tkB00Ozi11KeLfbsuVIJguL5zl_ePWX2hg99yaIcsPoPfJ29ENvZ8vtVK9LYwBQuu_hKxtE1UdsxuOK5dNDx61xXBPuZerrnTC6z0zMiL21r6kgHuLgLNoH12OW2CsmbwY5_qLOyA6jC0PC0i6T0iVOkmVIfG5N3GfenLtroqCKJlz4hZlXg_Ug7Impl-NZDz7nDooU3Rdmo4iPwOrdv5R6Y0cAPZl6iiNrH6F145IuaBbL2ivRAgQ1MaV_HBnAnNMzQ7ZGCW24y0d6FhYqNNINHvrjuRCq3q5wW5dV0w7hyi62L6-Mp2Opj7iW0FB4bs6ENxnLp4FSVR5m7xi7YMVgMBxlZy6GomfB0_mY-IBxHE4pmUZWopQn",
+      "photo_reference": "AaVGc3kBfGtZGI8T5jOeoP92HOx7EIBa3k6P_vPgPw8ZO_ehCoqoDbN2ogS_CDAUpi_KkActvPfjuSPKH33KHAE8z4MuFDZQUmCjig5GINPGIBjyREUEo1GxGheSkRyn2ijhsD7bbSDvM6xPdBp7dzsYVUFBIEYZoN2X7PvSc9dONcF_NZROoxMABTZajG_fCICThSgcHC_FI_KkwB-0t5Xz0WQ23uJnj99ZHfHFsmmSZkBOCOK768COgUBjVQBx1R4JQFYRKFi94E9jBawEv-K2fhqoPmgLkSo93mNOERDYj6zQMwiWZ3ZhTdP993eJ2xhVUQ1KPF-scRYQsBxaWb3M9gzNp0ResmiEUVVGshmm8_x5FEQgCZ9P9POmo31j_TUtcayPhsKAAuM45hSICPOrtNtFKvr9P0Kel0DmxYURw_iDgKL05jJSkqCsdfFIOKry",
       "width": 4032
     },
     {
@@ -108,7 +108,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3ls_vZBsVXhrjkMbnGKrClc2ifxO5-OSGHSFvcQhOa4XjkKSkPZlGcGQcCuNbiqmZeKBtA3cLI2XuRSEMuhxW5zOR1V3rAHh-P3WfNr52ZfimenMQ4g0XVyRIdVP_gkaJeJKS8ENmjhifephRfnNmPRMkjmlmqh3eTTgVSbBbKOJHwuKoOLWRdxsurupqHukyvynVln9oHM2bWMqBA3H6638FzGFlnrpo_JVOGRqukCHmgQO32bZ53YsuHtuJ1s_vT-cyDtqoKUa9Ei4726eNqrKrWCvD-7wz8TrCd27ONtBs6fmTC7HT9wrYuRKuWc0u3MCb7q8ReNEIWiPjgoqQScAzlHGXC47fNDV4lR6-Bu7WCfI5MEqklUvh3QHgnbZEs54EDOHTg-ATta0MKD4dP0bSvfJgWDHOUbL9to9e1SJHOkq7xiiL_-yMV-mw",
+      "photo_reference": "AaVGc3mnt-_zV4H763C_Ilk0LDUA-SxHHRks4-QzFToeueFnoV10hRtvVh6Cj11KxHK0OHElyshojJR1OoEXB40J0VHSKpRtkzgeaYz307VU1kY8ItT82OJSC3kl3bQCbtZlsjDWmaiceCe6grTmD1ve6qnRMeRafMGNztG1HRQHilrqLpS75eINZT6psZPBDRBVCVFoVyp8vVb4W8acXLGWQbguN-b59WZLtYGozbohXACcBhUdop0UfklVcvtdxsc50gIo4SpT46ZUxr0hdPkAJ8bMw-C0x0ee2DzxPacOawVcfNcF0_zuHUX2z1QcTlQO8TZ3RdGoI5L44DKChDYYtYqZar5g63TuEd_EXv1YzDSPLvaGvNmu16ByHzkfXV6xwiSrBYXizC7ylz0c1l0he9TVDVCxQM1wv37EhIDOyGBO7cDRAvM3lUdKEHwxNw",
       "width": 3024
     },
     {
@@ -116,7 +116,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3mUb86gPQvBHCu8psHcvwdjF__5exTZtdV8UbAuCxKUco7Yo8K60yGFdykAOdjDswiGKHxEQgrkBmPBYdGVe-wqZRRO1UVd7LzNVIG9anTucZHHyFTygk_Rm0breh-bghZhNdR4I2o4NDSvwejVjbGZJ_eR7VLOTN790FD-CBDFpSSKAeiEs74dil9BFoa3BUgmGrAAmLvIEsixRejKVAFHY4IE4jjG0-LyvCAOgBscsQZEt8YLkqaLavvqXRcckkERVXpcGQGQRkB0yvP4DIb1hnhnnSUw1GUZbZBaZAFlK6Q0RSYsWMULqEVsnLsJtmrORzI_6fcSMMnwnyrXdlmxKaIuj1WticcTV4bV749M3gsX7SBpnpFmBnKeLwBH9XrRwzbl43Wt9fXrz1XqQCrV0EnzKeJQKaqamPQAuW_LX7KKD0kZnhghI44zKXSP",
+      "photo_reference": "AaVGc3mpTtAOtiG6FN6Q9DPKryy076FrfK3h6B-nmaRkXZP0-MaA9cAjwfrf4y7DRuU-qpWUCYqCocsMXy-Jy6BOBgeOKOmtpGtVhhzwIwCseLtfvS-DIXZeY6lPVPhHRxZXZ2RYEBiI1CTq3N7aGDKz2YEEgZx_9xT7dw-aDU5P1mTOWQ1wtK4TQQPLq1zWXyJ-lzF473MjLeelMpxc40bXJw9Su_6_nq2RE509gBx3Hok-VpfowsPOlFWnkTXfxYkouSSZ5GahP1zScoa9DqFrVmKCxFEctEWJbvS3vFt_C8Kn11-71R0fTUEp_DYZoHApwtjqpkUAknJaAa3kdCloZ_L5G46WMkou0DNyG4eRbYgQ3SQmOtkirjrAijhwF-ffkAE6l2pVl6MSX31LG-iT9VtaSrkXVpuKH_c2BjRyVXivl50ZVpIFOGh8Nkl3-8mY",
       "width": 4032
     },
     {
@@ -124,7 +124,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3l_CLb0LszFXqgL5XT7BF4YUxc9tQPhoW3i12MFisMstIdSviIld-Ezw3u3BLpZGti1bbOjfhlZ3ipxtHJNhmhhHX-x_-Aw6fEYyd_npHcivEFhwj7klWcNTLQBPXXXISXyyzBSSpc3bhEVVM-M7W5HPOfDGyTa5IA0Tbq50QmOv6s6Kgmpo2P2JbrKf9TLX5sX32ZP1rBod2CIRGHjP03gu0q2nr5AGpmE5Mzlkymvi1lBYHWHv8876VwO6xJQvzmWcIGjYeVOxdwOh8bsL76oU2nRDBk435-_4lA7PmclRnJdS3HoddbAPnLoKd0Sf-eAclZehJrWGsuzFGQnPZBzL56GvnHIEqERiVoL9Xj4OngPFXdhLHvstDcVqkbrEpPNRkFkIFGstDIDejQbDjJfk7UbFuQ14hTeuLh6Rgqkp9SeZrv502yJenA-2Y6f",
+      "photo_reference": "AaVGc3k6R8H8TCcF8Fg0-adm-ov0DXfnlzjD_wQF3kuOKZnGRkh7-UuMTp5I6uskEsWTnrhRNefB8fO7lBv3qngHvcE2NLnzy9wT0uRY5qCheVorJp3liViuuvnAnpslnvM2tzhAmnxidAJ63S7lW8UjQBDAe1magwjo-UgbApvuoUWSyIcOsSBUGCXs22Ut-nJAKxd4Kb926d6swJYpmHdR02nxlom0b1LGxUG0zaKwFhNzAwHZcWnWAiyUY2akUdvqXUUx8n73KJhEzASZplnCpKC4fS7opy7yaD-kp2Rim3t39Akw0aSZ3tp_wtGmWltAE4AAoMlz0JB0Eu-mCkHpp-AY9mPHhU2l_903qHpHsj98R9v16oiCvNhlJwqQ8yWqTUSG1mMyY6X2NBwdoy-qaiauCXwJK11gVlHLp2fj0y_RoyyLvY-CJ-4ZwaNK0GL_",
       "width": 1280
     },
     {
@@ -132,7 +132,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3kt0OXpU16zTR6De4Kcv_-zv2VKd15Wb06cK2OdKxKxgZRS-Q9S43yKX7qUHEutVOvTq3mxq4jc4I74EYZf_ifgv3QUUAj9lhDbD4t8edGjMmSe-0SLpZp9xBa2N5qiMKbsw2FEFGQud9ideDFzZG2ryR5_AQNzwSPqnSXzepxiYcvDHIMh9mdYAHo0Fv57z98VZMvDg7GMpFUVSwS1b-QXgpjC8CuIrsqU79s8mswIY-V7Le8od9KlGobLq3E3oljagsSpW2c4UXH7ZT133ACYUk7xrPf4JLTQwCzckcQEyzcVdH5G9u22p18f14QCPitvPIh977o--TRbd4qsCgsw0LDwLfccpZ1jwgXX729Yx4KSWqGhQ5VGH6DdRVllDdc2_EFPkowfYVT7DgTe65kKligYvQ9PuGofIU2eCu-_M6Dt5xL8xBm7n7C-vjGo",
+      "photo_reference": "AaVGc3kD4jQ1ylVIQPQYMDwl4ZD2yF6CMgFG9YA33xnZsG18E5Bo7DQ_ZemjhHOw_9HPFQmeGZ5xwZ5jM4_lRbMkCYVP0ybR0_wTM-ZFKcmQCk6cmuC8jcDnqZ00JC-PciRw8wQuXJ9ow0AefCIHOFi9rpPkjCprxWeCfawj5N6-Ji51Fle9TcKLGKVpN5TSl60LJ-bku7Jv_oNe5p-NIMaryvM58iQ7kxsRTykluYgAFq2CnubsRp8epaZY6KDce9DGBn9hrINmmzEU-1rX7WBP-rWLUUYsmL9I5njRzmQRFgTxlQnfKag2VqtFlaCob2Wvu9mroFCzK-ma6quE4Fi-5ak212xixt-q3OacgbVycW3btKqy6rdMeFbMjfAidSIBIxl9nJTpxdJLMuUcCcRA4VCa6ucqPXZhf78SdoAtAOctU6e5utgL29vmWmPEFQLQ",
       "width": 3024
     },
     {
@@ -140,7 +140,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3nYTS1s2K3RQq4ML8Ip3dtqjMF7VDrZdz4szaXOPurVz8PPr35KHJVx2UX0W8VRSWOo-S1L4AaqR3_Ors6qJt-lzuX-XIFhnhaYYW50q4oyecgJ-4lF7BK5cIRoDK_2GtaeUHuKwYqWOKs5CfyC8nFBGr201L79zxVUelqqBAxPcThDhctbF-bF_YRm3eKcpQ7Ku1fGbYymQmhYZeGfkdux4-LPU7ERh73F16OzGTuxXdmE27ChtJJGOHC5suxJfUm2KPDUY4iRLmqGhnYLGjOhSZ54-n6ROWEaG5Xh_grRuvUH-NbKpCwpUJjcJ4mDQM-_QnZA7shRhsxjAXKeEDhDQYKco6tdNyYzywcRdJPGvzGw5SdSiBZ8A-PhomjqCX8GQ0nBWy_2YHYBJERs0ie_z0-RoIIbgv_n0vlwkdhHFQkjVzGNEgcBryrQR87b",
+      "photo_reference": "AaVGc3nMbgMdQU4C_v4TohexaGwU31r6Bs5hhEFCnC3z6Tfi32b_1gc_jT-22IboAemPkEGQGewDGSUCDKOFEOcXJ2ipe--llOGycl6HHA6_x70e2IpQNRxBI6pWQZ_0DpIpYqZErLf1z19F2JtV5DIuCKw7X9DYV0czjILBdywCkt_wlccsjLNR1xJCl-8I4FK74hllnHO8txBhQkYe_w7E6jsQYUdrpph3_zIg8PuHRaWljtodZESwTu-tJE6s-VtUc3cbfxpCwgNcH5rZ-I3Bp3Z0qcAv2Kb5NuNy2pahOxPvLMZ0W6LxHqtj2BlI3QQjxL93mH7NpXg3qBwqhEegtr_cyD9TF3mLqsJ0OybgGhX5owSmCC0zL3_cT8CK18IYJSshT9lBgKBh-6SnDCojW_qUH7LU1i5cQpva9B_bHe6xW56VuLraV89paaw68aRb",
       "width": 4032
     },
     {
@@ -148,7 +148,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3lS0q9FA_VBcDlbk2wzU_iGuqcyzqNinrTfoombo14JdZWrYi5nfLuyl26AuZwB4NzCVpp539-SAp6nV6fu36NYgQvlAfeBvJ6We_U1ll8sVJbDXaP2GFpPrYtvK9_l2NVuBIfBOTq1ghltd_eaAp1VwY9N5ksyuROboV9iAaiOE3FJUk6h5vO85PBBMsKbalX2AHcFCxp3EkEqomAo5nv5IuILHKO-3TzD5zT-JgTTG4v0svQdcGvHCUEo4QGWbWaBJUrmV04_GZ8FbUmWU5OkFKH-g5Cdl5NqFQMwF4_2k8nt7ZAbEyanES9HypTuO9TIUglFTgPt5VvAPWkDmks_6nozkMnX1jveDG46QpG1yZ75y7J4ejXPlSTxx4RSHpkQglGmGO6j5ofAeetWOK744hQlt-6jHMg0F0j22_q-Afo0hWQpj4kJdBaAmDKY",
+      "photo_reference": "AaVGc3mvj6GjsQauCua-pH61SoalXE8K5MAn1D0xQswl9V-YE86s9OE83uRrLHbL-NIpoR3muIjqTRODI28T0S9SM13a-gnIY7zTClI_UtvcsY8p9o_56ujv-g5O-PxZyh4MAmvQHGRYiUrIcJUeQwwiGyy9mcse3AOGB9-J3zaJ62dxUcagMIieq-cyWc7Hx-ZzRpaD88J-QMvcQgWGBG_rQEfItufVVEf_BulREzAy6gboMvF8xHJusSxdzhetbyWjlk5nvRHFgh7WD0cDyhaB3ekJW9i8Xy8YoRuPfUtEjnG34NLkDO6kbL0cryNS3exOuoXKGXp94QU3ddEH-X0TkCblh0TaZRHq2Fta0NAVwJmq-fzFZ2I-icbFH64zfZIyMKN62xuCaDtZheFOLAVERdaCy5J2ABBP3DudoCXTBjbkfHXNDqi7GiR4UOKkM-b2",
       "width": 3024
     },
     {
@@ -156,7 +156,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3m6a1GK3BXAoHbqxuBRrpR2Jspv-__RotkR5LerbLFZ-jhFLnG86oC1G2ZN26klj9FoVMfsJm2kgK8wFXFkJSlNP-FP_UafUA8bJfaWy9Hs55XjCw9n19Rki1UnqQwzhb_VoUbCdfsOL4Fej6UI9eYBW02okfzMEYwyyMrK9cD5zLLKfMJfEcME0UYyzixBXeJsITJQU2trvWTp6JlJOWZk1Y5N2HQPktLmJOg2JgQiamGJJ_jxFMwJ3FmG4o694wd_9j9WDZmJtOgpnH_dpvUqk9bRFXZEDemAq6n7N4WrymDLu2NSGpmjHdFzEcTeaiGkiYH0WSCrxpZTNnKgcDfUQ3vYQJRZ-FKkzb4Sx1EiQU8N58yFJVZM4WkKmVXA-Wvi4i8KespN24ugjVYtELxPQz1Osqk9EWSJMfK326iFYyfEF8voEvX5lZu5qQZ5",
+      "photo_reference": "AaVGc3lADsjERTXDpFgHGYwFAlurqp2g5kkzn6LgSn1NWsRI4BZ8iQKRDvgIXkECu8jL4tAgOJjhjQgf3W11w8PrjdN4hxkAi2zUY7xgLPHB1mmf6cVfEmGada2BL64CrqHcnSHhzlIKgwMREaVVqE5vcMedCmn4f8xrkclqpqbsTl10ufrpdaVXnQelxiiPsf4n1GFHRWekzoQG5qJrZbTK5MnikXtFFaQHVFyVT4Czf_ymTVe3aBG2MpOvO89I0XKuYOU6IqYDMKizWQdKlxXA26qbmvYVDYe-JmNqM4CBIiEYvKe4giOXb9tmAc3xw7cCk_8q--Zp-42grd1sgV81DgB2ZKSEbEGTOyfzvd7mDew-wCaWa-6c5TBbm_CXvtfqPuyawZymQrsFxE5JFJf35JNy5-Buvdu9pPK_uNQm-mSX8sobrkd7AVKSyogfThhA",
       "width": 4032
     },
     {
@@ -164,7 +164,7 @@
       "html_attributions": [
         "<a href=\"https://maps.google.com/maps/contrib/101793707437092057872\">RESTORE THERAPY</a>"
       ],
-      "photo_reference": "AaVGc3lx7HnRyqAPu17SVQ08gok4MZ7kNEYTtf2ON1TmqTj1MFnE3JWt7pHEwG50f7fbSJlcsFouOrdlBf9i3jyvMij5bpOz7UGmqpmkBlmUvOOopNZDbRz6uYt_u5Quy2nHgIHa60Lt031x6FUiwVQxZkKQu8j3UtWt9DUP9DIc2g5_Lz_hh45sZlq2E4QMzBhDHggK20sc3H5GUK441FYkuZD0Fu2mYoZ2ZAME1YAJY4UrnBLj08r9_AyQsC_OtITKOiiBckacF5KcCttxMAZeujY9dMSH81M-BlFsSusB2IZbegAVKmq_6X1KP7RnnJl0Xg6ZCuNLQLwxsU1x_1E1B0CymWHCu0hr-H32ljcU0IxlywsdhKOTirw1l2xhJffmmGnW1Yacm77FUTlry2iebuFy4dPjYg6a4N9lb41McU3Ww62wnlrdg_qZRfr4hJQl",
+      "photo_reference": "AaVGc3mlOpY0Cj3YkltoXiblmUk4JZ6cmqgjZpSGe95ai2YuvcF0u2d8IL8MIZEPtktjWMAisr8ZeSor7ZwXzjqcHLPKEoXAN8gG33_CWcoQVWJ1DrtemDvV1Wn-mKeMHOPbVDw6NUMizjmXr3BkPEa579UJuGn0A-MOTpmDjoWdX88dZH6rYMbJaMNy90LppHY-2CM6NemuzkV_jJFJNx7mrEVvfE-tdH3aIVvwtgQzA6fXU9T4H0_48cURjFRguUvPNyXY2lCKcI_ZtBzroARiATyT9bez8XyHMKDRbM5sIiJR-gWoE2bfxBpZTmM-rMwTQhKsBjSj9BbbfGEwVJ2zeEikW-0CYeR_VH2uz1k9PlekQZJE2Hu4NoeTfhuYGQdQie9pLBmEYumu5JKIooyWWHjAUNweCkiO174_F0Rxbw7LFlQhhq-gRX7mm2qz3sc_",
       "width": 1024
     }
   ],

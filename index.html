@@ -76,6 +76,11 @@
   .service-detail .body { color: rgba(0,0,0,0.62); font-size: 0.95rem; }
   @media (max-width: 760px) { .service-detail-grid { grid-template-columns: 1fr; } }
 
+  .gallery-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 16px; }
+  .gallery-grid img { border-radius: 14px; width: 100%; height: 320px; object-fit: cover; }
+  .gallery-grid img:first-child { height: 320px; }
+  @media (max-width: 760px) { .gallery-grid { grid-template-columns: 1fr; } .gallery-grid img { height: 220px; } }
+
   .about-layout { display: grid; grid-template-columns: 1fr 0.9fr; gap: 48px; align-items: start; }
   .about-layout img { border-radius: 14px; aspect-ratio: 4/3; object-fit: cover; width: 100%; }
   .about-copy p { color: rgba(0,0,0,0.68); margin-bottom: 18px; max-width: 60ch; }
@@ -158,7 +163,7 @@
       </div>
     </div>
     <div class="hero-panel">
-      <img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3mk8Nt27DOVkDRwtKT8YBNWmfxg4g36MUWOpDmvave1I9h957Y-jrAlJV7Vo5TsjhY38NgwXiNpJgv96eMbH-tWZVSS_tYUQm7UBb51uIinBEGHi3a0i0fngxJIp-e98eCNF-ZAWxwOW9YSOm0y-XOz9cCK7HHqz2YfkzBjc4zsnMxq3vunbSvhae7TuGIkXP2x3fBbeXmU8YYExxjeb-LcIT41_IZGn9eUvOvIqS7OrHotC3H9A4IauRocUK3pPqCitPDG8n_1UnLCNuLKPD-MjzMoQabLYYp4wbhwS5jsQMuMvWzDZhwPrMx_dmJux3QMXD_Lm0f-xhCR-U0ovbCGxTLGLS_QDnqULGV0QkE-egv3PIxVSM69toLITnRL43G5X1P2dzDbSntpC9A58pGb-iUMsCP2pokIEunWLm4VRc4BKusvB3vaFfJBwmPL&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="RESTORE THERAPY" loading="lazy">
+      <img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3mbOO73sMQMnDIKtMaEDVVzw5Ik_sQX2dhlCLgizfccbqlZclc2fdTuht6vaL7elo2r6XuVwXrMtwasFJTikk2uyHAiuPX_l2eZNdm3CXi0Vs9oN6q5ZCgQr2_0dWBUrItPMIz112IqAnC90AOm3ol5hG9hzIeVXrSuJrp7BkiCInIbggqCCTvfeQea4MGLcL8yh2bEgeQZfK-m3CCrGIzRW8G9NI4uRgDC0TcydfimDMz_ye1E0_QwTPN4yJVEbZREwDIhnykW7mCt_jtJnuORMrwSbDYZd8ilte1kxd9wVGavof42juijIUPVWu8iLC4Edhl-cFj4up1oe0E52VzYywq5zhnxYYyeb44B0WaKX31u99mjOinNFfg_CcjRaJ6GUoFvWH5tBd_BaHvN6_6eV44jZ2DfylmdByUoB7DsCFt-oMlrUkltY7heLAmO&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="RESTORE THERAPY" loading="lazy">
       <div class="hero-stat"><span class="num">5★</span><span class="label">from 11 Google reviews</span></div>
       <div class="hero-panel-row"><span class="k">Address</span><span>229 Jackson St Unit B6, Anoka, MN 55303, USA</span></div>
       <div class="hero-panel-row"><span class="k">Phone</span><span>(612) 422-0648</span></div>
@@ -179,6 +184,14 @@
 <div class="service-row"><span class="name">Licensed Therapist</span><span class="blurb">Certified, experienced practitioner.</span></div>
 <div class="service-row"><span class="name">Gift Cards</span><span class="blurb">Available in any amount.</span></div></div>
     </div>
+  </div>
+</section>
+
+<section class="tight">
+  <div class="container">
+    <div class="gallery-grid" data-reveal><img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3mbOO73sMQMnDIKtMaEDVVzw5Ik_sQX2dhlCLgizfccbqlZclc2fdTuht6vaL7elo2r6XuVwXrMtwasFJTikk2uyHAiuPX_l2eZNdm3CXi0Vs9oN6q5ZCgQr2_0dWBUrItPMIz112IqAnC90AOm3ol5hG9hzIeVXrSuJrp7BkiCInIbggqCCTvfeQea4MGLcL8yh2bEgeQZfK-m3CCrGIzRW8G9NI4uRgDC0TcydfimDMz_ye1E0_QwTPN4yJVEbZREwDIhnykW7mCt_jtJnuORMrwSbDYZd8ilte1kxd9wVGavof42juijIUPVWu8iLC4Edhl-cFj4up1oe0E52VzYywq5zhnxYYyeb44B0WaKX31u99mjOinNFfg_CcjRaJ6GUoFvWH5tBd_BaHvN6_6eV44jZ2DfylmdByUoB7DsCFt-oMlrUkltY7heLAmO&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="RESTORE THERAPY" loading="lazy">
+<img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3kBfGtZGI8T5jOeoP92HOx7EIBa3k6P_vPgPw8ZO_ehCoqoDbN2ogS_CDAUpi_KkActvPfjuSPKH33KHAE8z4MuFDZQUmCjig5GINPGIBjyREUEo1GxGheSkRyn2ijhsD7bbSDvM6xPdBp7dzsYVUFBIEYZoN2X7PvSc9dONcF_NZROoxMABTZajG_fCICThSgcHC_FI_KkwB-0t5Xz0WQ23uJnj99ZHfHFsmmSZkBOCOK768COgUBjVQBx1R4JQFYRKFi94E9jBawEv-K2fhqoPmgLkSo93mNOERDYj6zQMwiWZ3ZhTdP993eJ2xhVUQ1KPF-scRYQsBxaWb3M9gzNp0ResmiEUVVGshmm8_x5FEQgCZ9P9POmo31j_TUtcayPhsKAAuM45hSICPOrtNtFKvr9P0Kel0DmxYURw_iDgKL05jJSkqCsdfFIOKry&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="RESTORE THERAPY" loading="lazy">
+<img src="https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AaVGc3mnt-_zV4H763C_Ilk0LDUA-SxHHRks4-QzFToeueFnoV10hRtvVh6Cj11KxHK0OHElyshojJR1OoEXB40J0VHSKpRtkzgeaYz307VU1kY8ItT82OJSC3kl3bQCbtZlsjDWmaiceCe6grTmD1ve6qnRMeRafMGNztG1HRQHilrqLpS75eINZT6psZPBDRBVCVFoVyp8vVb4W8acXLGWQbguN-b59WZLtYGozbohXACcBhUdop0UfklVcvtdxsc50gIo4SpT46ZUxr0hdPkAJ8bMw-C0x0ee2DzxPacOawVcfNcF0_zuHUX2z1QcTlQO8TZ3RdGoI5L44DKChDYYtYqZar5g63TuEd_EXv1YzDSPLvaGvNmu16ByHzkfXV6xwiSrBYXizC7ylz0c1l0he9TVDVCxQM1wv37EhIDOyGBO7cDRAvM3lUdKEHwxNw&key=AIzaSyBVt52zNoH0eoDZkXH8WoRxvtsV9ZK1Iu4" alt="RESTORE THERAPY" loading="lazy"></div>
   </div>
 </section>
 
